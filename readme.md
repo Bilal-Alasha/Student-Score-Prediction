@@ -48,7 +48,6 @@ Both metrics are printed after model evaluation for easy comparison.
 
 ## 🧰 How to Run This Project
 
-### 1️⃣ Clone the Repository
 
 ```bash
 git clone https://github.com/Bilal-Alasha/Student-Score-Prediction
